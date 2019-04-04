@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Employee {
+abstract class Employee {
 	private int id;
 	private String name;
 	private float salary;
